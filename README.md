@@ -16,5 +16,5 @@
 <hr />
 <h2>View Live</h2>
 <p>Check out the live version of the project here:  
-<a href="https://kartik-sonar123.github.io/Functional-Calculator/” target="_blank"><b>Calculator Project - Live Demo</b></a></p>
+<a href="https://kartik-sonar123.github.io/Functional-Calculator/" target="_blank"><b>Calculator Project - Live Demo</b></a></p>
 
