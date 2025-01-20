@@ -1,0 +1,45 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+}
+body
+{
+  background-color: beige;
+}
+.heading 
+{
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+  width: 25vw;
+  height: 65vh;
+  margin: auto;
+  padding-top: 6px;
+  position: relative;
+  top: 100px;
+  align-items: center;
+  border-radius: 11px;
+}
+.row input 
+{
+  padding: 0px 32px 0px 0px;
+  margin-top: 10px;
+  height: 10vh;
+  border-radius: 8px;
+  font-size: 18px;
+  outline: none;
+  text-align: right;
+}
+.row button {
+  color: green;
+  padding: 9px 23px 6px 20px;
+  margin: 18px 1px 0px 5px;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
